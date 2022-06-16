@@ -1,0 +1,8 @@
+Proxy:
+  Addr: 0.0.0.0
+  Port: 8181
+TargetHost:
+  Scheme: http
+  Addr: 127.0.0.1
+  Port: 8888
+
